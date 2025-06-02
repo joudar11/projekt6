@@ -24,7 +24,7 @@ projekt6/
 
 ## 💻 Požadavky
 
-- Python 3.7+
+- Python 3.13
 - Nainstalovaný Playwright a jeho závislosti
 
 Instalace závislostí:
